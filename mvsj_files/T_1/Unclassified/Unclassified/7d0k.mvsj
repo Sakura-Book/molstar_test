@@ -1,0 +1,85 @@
+{
+  "root": {
+    "kind": "root",
+    "children": [
+      {
+        "kind": "download",
+        "params": {
+          "url": "https://files.wwpdb.org/download/7d0k.cif"
+        },
+        "children": [
+          {
+            "kind": "parse",
+            "params": {
+              "format": "mmcif"
+            },
+            "children": [
+              {
+                "kind": "structure",
+                "params": {
+                  "type": "assembly"
+                },
+                "children": [
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "A"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "B"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0",
+    "timestamp": "2024-11-09T12:22:01.342548+00:00"
+  }
+}

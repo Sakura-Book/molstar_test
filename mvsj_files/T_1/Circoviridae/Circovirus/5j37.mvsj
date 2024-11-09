@@ -1,0 +1,160 @@
+{
+  "root": {
+    "kind": "root",
+    "children": [
+      {
+        "kind": "download",
+        "params": {
+          "url": "https://files.wwpdb.org/download/5j37.cif"
+        },
+        "children": [
+          {
+            "kind": "parse",
+            "params": {
+              "format": "mmcif"
+            },
+            "children": [
+              {
+                "kind": "structure",
+                "params": {
+                  "type": "assembly"
+                },
+                "children": [
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "A"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "B"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "C"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "D"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "E"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0",
+    "timestamp": "2024-11-09T12:19:52.073951+00:00"
+  }
+}

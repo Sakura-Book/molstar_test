@@ -1,0 +1,60 @@
+{
+  "root": {
+    "kind": "root",
+    "children": [
+      {
+        "kind": "download",
+        "params": {
+          "url": "https://files.wwpdb.org/download/7kfr.cif"
+        },
+        "children": [
+          {
+            "kind": "parse",
+            "params": {
+              "format": "mmcif"
+            },
+            "children": [
+              {
+                "kind": "structure",
+                "params": {
+                  "type": "assembly"
+                },
+                "children": [
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "A"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0",
+    "timestamp": "2024-11-09T12:20:45.546047+00:00"
+  }
+}

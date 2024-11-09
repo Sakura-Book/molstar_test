@@ -1,0 +1,135 @@
+{
+  "root": {
+    "kind": "root",
+    "children": [
+      {
+        "kind": "download",
+        "params": {
+          "url": "https://files.wwpdb.org/download/1m0f.cif"
+        },
+        "children": [
+          {
+            "kind": "parse",
+            "params": {
+              "format": "mmcif"
+            },
+            "children": [
+              {
+                "kind": "structure",
+                "params": {
+                  "type": "assembly"
+                },
+                "children": [
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "1"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "2"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "3"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "4"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0",
+    "timestamp": "2024-11-09T12:20:10.943304+00:00"
+  }
+}

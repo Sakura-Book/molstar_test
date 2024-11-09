@@ -1,0 +1,5285 @@
+{
+  "root": {
+    "kind": "root",
+    "children": [
+      {
+        "kind": "download",
+        "params": {
+          "url": "https://files.wwpdb.org/download/6yfb.cif"
+        },
+        "children": [
+          {
+            "kind": "parse",
+            "params": {
+              "format": "mmcif"
+            },
+            "children": [
+              {
+                "kind": "structure",
+                "params": {
+                  "type": "assembly"
+                },
+                "children": [
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AC"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AD"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AE"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AF"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AG"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AH"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AI"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AJ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AK"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AL"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AM"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AN"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AO"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AP"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AQ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AR"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AS"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AT"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AU"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AV"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AW"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AX"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AY"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "AZ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BC"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BD"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BE"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BF"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BG"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BH"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BI"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BJ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BK"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BL"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BM"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BN"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BO"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BP"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BQ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BR"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BS"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BT"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BU"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BV"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BW"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BX"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BY"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "BZ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CC"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CD"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CE"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CF"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CG"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CH"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CI"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CJ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CK"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CL"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CM"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CN"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CO"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CP"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CQ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CR"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CS"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CT"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CU"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CV"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CW"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CX"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CY"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "CZ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DC"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DD"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DE"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DF"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DG"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DH"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DI"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DJ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DK"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DL"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DM"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DN"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DO"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DP"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DQ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DR"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DS"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DT"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DU"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DV"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DW"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DX"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DY"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "DZ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EC"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "ED"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EE"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EF"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EG"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EH"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EI"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EJ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EK"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EL"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EM"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EN"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EO"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EP"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EQ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "ER"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "ES"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "ET"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EU"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EV"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EW"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EX"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EY"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "EZ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FC"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FD"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FE"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FF"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FG"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FH"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FI"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FJ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FK"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FL"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FM"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FN"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FO"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FP"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FQ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FR"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FS"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FT"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FU"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FV"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FW"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FX"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FY"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "FZ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GC"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GD"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GE"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GF"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GG"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GH"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GI"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GJ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GK"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GL"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GM"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GN"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GO"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GP"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GQ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GR"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GS"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GT"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GU"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GV"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GW"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GX"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GY"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "GZ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HC"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HD"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HE"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HF"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HG"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HH"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HI"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#8c564b"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HJ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c49c94"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HK"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#e377c2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HL"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#f7b6d2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HM"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#7f7f7f"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HN"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c7c7c7"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HO"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#bcbd22"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HP"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#dbdb8d"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HQ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#17becf"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HR"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9edae5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HS"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#1f77b4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HT"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#aec7e8"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HU"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff7f0e"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HV"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ffbb78"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HW"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#2ca02c"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HX"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#98df8a"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HY"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#d62728"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "HZ"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#ff9896"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "IA"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#9467bd"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "component",
+                    "params": {
+                      "selector": {
+                        "auth_asym_id": "IB"
+                      }
+                    },
+                    "children": [
+                      {
+                        "kind": "representation",
+                        "params": {
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "#c5b0d5"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0",
+    "timestamp": "2024-11-09T12:20:05.708044+00:00"
+  }
+}
