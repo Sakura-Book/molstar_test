@@ -16,13 +16,16 @@ github上にあるmvsjファイルであれば、`https://raw.githubusercontent.
   - capsidのmvsjが置いてあるディレクトリ (今のところT=1のみ)
   - representationはsurface, colorはasym_id (chain idとほぼ同じ？)ごとに設定した
 
+- [generate_capsid_mvsj.ipynb](./generate_capsid_mvsj.ipynb)
+  - 指定したT-numberのcapsidのPDB情報を[VIPERdb](https://viperdb.org/)から取得し、[MolViewSpec](https://molstar.org/mol-view-spec/)を使ってmvsj形式で書き出すためのノートブック
+  - [mvsj_files/](./mvsj_files/)以下のmvsjファイルはこのノートブックで作りました
+
 - [generate_mvsj.ipynb](./generate_mvsj.ipynb)
   - mvsjファイルの色の付け方やrepresentationを試行錯誤しているノートブック
   - 参考: [molviewspecのデモ用ノートブック](https://colab.research.google.com/drive/1O2TldXlS01s-YgkD9gy87vWsfCBTYuz9)
 
 - [viperdb_test.ipynb](./viperdb_test.ipynb)
-  - viperdbからWebAPI経由でカプシドのPDBIDを取得するためのノートブック
-  - [mvsj_files](./mvsj_files/)以下のmvsjファイルを作るのに使った
+  - viperdbからWebAPI経由で、T-numberを指定してcapsidのPDB情報を取ってくるノートブック
 
 - [1cbs.mvsj](./1cbs.mvsj)
   - 動作確認のため、[molstar](https://github.com/molstar/molstar/blob/master/examples/mvs/1cbs.mvsj)よりコピーしたもの
