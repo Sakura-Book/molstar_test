@@ -30,8 +30,17 @@
                       {
                         "kind": "representation",
                         "params": {
-                          "type": "cartoon"
-                        }
+                          "type": "surface"
+                        },
+                        "children": [
+                          {
+                            "kind": "color",
+                            "params": {
+                              "selector": "all",
+                              "color": "red"
+                            }
+                          }
+                        ]
                       }
                     ]
                   }
@@ -45,6 +54,6 @@
   },
   "metadata": {
     "version": "1.0",
-    "timestamp": "2024-11-09T07:41:10.754482+00:00"
+    "timestamp": "2024-11-09T08:38:35.881103+00:00"
   }
 }
