@@ -9,6 +9,7 @@ https://molstar.org/viewer/?mvs-format=mvsj&mvs-url=[raw fileへのリンク]
 # 例
 https://molstar.org/viewer/?mvs-format=mvsj&mvs-url=https://raw.githubusercontent.com/Sakura-Book/molstar_test/main/1stm.mvsj
 ```
+github上にあるmvsjファイルであれば、`https://raw.githubusercontent.com/[username]/[repository]/main/[filename]`の形でraw fileを取得できる (ただしpublic repositoryである必要あり)
 
 ## 内容
 - [mvsj_files](./mvsj_files)
