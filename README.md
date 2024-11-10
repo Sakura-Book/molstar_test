@@ -1,7 +1,7 @@
 # molstar_test
 [molviewspec](https://molstar.org/mol-view-spec/)の使い方についての勉強用リポジトリ
 
-## URLでmvsjを読み込めるようにする方法
+## URLでmvsjを読み込む方法
 以下の形式で、molstarにmvsjのraw fileを渡せばよい
 ```
 https://molstar.org/viewer/?mvs-format=mvsj&mvs-url=[raw fileへのリンク]
@@ -10,6 +10,15 @@ https://molstar.org/viewer/?mvs-format=mvsj&mvs-url=[raw fileへのリンク]
 https://molstar.org/viewer/?mvs-format=mvsj&mvs-url=https://raw.githubusercontent.com/Sakura-Book/molstar_test/main/1stm.mvsj
 ```
 github上にあるmvsjファイルであれば、`https://raw.githubusercontent.com/[username]/[repository]/main/[filename]`の形でraw fileを取得できる (ただしpublic repositoryである必要あり)
+
+## URLでmoljを読み込む方法
+以下の形式でｍolstarにmoljのraw fileを渡せばよい
+```
+https://molstar.org/viewer/?snapshot-url-type=molj&snapshot-url=[raw fileへのリンク]
+
+# 例
+https://molstar.org/viewer/?snapshot-url-type=molj&snapshot-url=https://raw.githubusercontent.com/Sakura-Book/molstar_test/main/mol-star_state_2024-11-6-18-43-37.molj
+```
 
 ## 内容
 - [mvsj_files](./mvsj_files)
