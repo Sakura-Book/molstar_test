@@ -5,7 +5,7 @@
       {
         "kind": "download",
         "params": {
-          "url": "https://files.wwpdb.org/download/1m1c.cif"
+          "url": "https://files.wwpdb.org/download/6l62.cif"
         },
         "children": [
           {
@@ -17,39 +17,15 @@
               {
                 "kind": "structure",
                 "params": {
-                  "type": "assembly",
-                  "assembly_id": "1"
+                  "type": "assembly"
                 },
                 "children": [
                   {
                     "kind": "component",
                     "params": {
-                      "selector": "all"
-                    },
-                    "children": [
-                      {
-                        "kind": "representation",
-                        "params": {
-                          "type": "surface"
-                        },
-                        "children": [
-                          {
-                            "kind": "color",
-                            "params": {
-                              "selector": {
-                                "auth_asym_id": "A"
-                              },
-                              "color": "red"
-                            }
-                          }
-                        ]
+                      "selector": {
+                        "auth_asym_id": "A"
                       }
-                    ]
-                  },
-                  {
-                    "kind": "component",
-                    "params": {
-                      "selector": "all"
                     },
                     "children": [
                       {
@@ -61,9 +37,7 @@
                           {
                             "kind": "color",
                             "params": {
-                              "selector": {
-                                "auth_asym_id": "B"
-                              },
+                              "selector": "all",
                               "color": "blue"
                             }
                           }
@@ -81,6 +55,6 @@
   },
   "metadata": {
     "version": "1.0",
-    "timestamp": "2024-11-09T15:37:15.561218+00:00"
+    "timestamp": "2024-11-09T14:26:58.255008+00:00"
   }
 }

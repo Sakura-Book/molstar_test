@@ -24,7 +24,9 @@
                   {
                     "kind": "component",
                     "params": {
-                      "selector": "all"
+                      "selector": {
+                        "label_asym_id": "A"
+                      }
                     },
                     "children": [
                       {
@@ -45,31 +47,6 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "kind": "component",
-                    "params": {
-                      "selector": "all"
-                    },
-                    "children": [
-                      {
-                        "kind": "representation",
-                        "params": {
-                          "type": "surface"
-                        },
-                        "children": [
-                          {
-                            "kind": "color",
-                            "params": {
-                              "selector": {
-                                "auth_asym_id": "B"
-                              },
-                              "color": "blue"
-                            }
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               }
@@ -81,6 +58,6 @@
   },
   "metadata": {
     "version": "1.0",
-    "timestamp": "2024-11-09T15:37:15.561218+00:00"
+    "timestamp": "2024-11-10T01:07:52.212550+00:00"
   }
 }

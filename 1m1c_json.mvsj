@@ -34,37 +34,20 @@
                         },
                         "children": [
                           {
-                            "kind": "color",
+                            "kind": "color_from_uri",
                             "params": {
-                              "selector": {
-                                "auth_asym_id": "A"
-                              },
-                              "color": "red"
-                            }
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "kind": "component",
-                    "params": {
-                      "selector": "all"
-                    },
-                    "children": [
-                      {
-                        "kind": "representation",
-                        "params": {
-                          "type": "surface"
-                        },
-                        "children": [
-                          {
-                            "kind": "color",
-                            "params": {
-                              "selector": {
-                                "auth_asym_id": "B"
-                              },
-                              "color": "blue"
+                              "uri": [
+                                {
+                                  "label_asym_id": "A",
+                                  "color": "red"
+                                },
+                                {
+                                  "label_asym_id": "B",
+                                  "color": "blue"
+                                }
+                              ],
+                              "format": "json",
+                              "schema": "chain"
                             }
                           }
                         ]
@@ -81,6 +64,6 @@
   },
   "metadata": {
     "version": "1.0",
-    "timestamp": "2024-11-09T15:37:15.561218+00:00"
+    "timestamp": "2024-11-10T01:23:32.170047+00:00"
   }
 }
